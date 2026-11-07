@@ -1,0 +1,6 @@
+data/
+src/page_*.json
+__pycache__/
+*.pyc
+.venv/
+venv/
