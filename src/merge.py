@@ -13,7 +13,7 @@ import json
 import re
 import pandas as pd
 
-PAGE_FOLDER = "."          # change if your pages are in a subfolder
+PAGE_FOLDER = "../data/pages"        # change if your pages are in a subfolder
 OUTPUT_CSV = "../data/incidents_raw.csv"
 
 

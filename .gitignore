@@ -1,4 +1,4 @@
-data/
+data/pages
 src/page_*.json
 __pycache__/
 *.pyc
